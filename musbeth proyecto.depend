@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1559026940 source:c:\users\bekuz\onedrive\escritorio\programacion poo\musbeth proyecto\mus.cpp
+	<iostream>
+	"graphics.h"
+	"mouse.h"
+	<time.h>
+	<windows.h>
+
+1412442978 c:\users\bekuz\onedrive\escritorio\programacion poo\musbeth proyecto\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1550719266 c:\users\bekuz\onedrive\escritorio\programacion poo\musbeth proyecto\mouse.h
+
+1559061670 source:c:\users\bekuz\onedrive\escritorio\programacion poo\musbeth proyecto\recurso.rc
+
